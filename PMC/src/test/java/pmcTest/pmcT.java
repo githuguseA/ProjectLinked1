@@ -11,6 +11,6 @@ public class pmcT {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.instagram.com/?hl=en");
 		Thread.sleep(4000);
-		System.out.println("end");
+		
 	}
 }
